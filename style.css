@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 body {
-    background: #10101B;
+    background: #adadf3;
     height: 100vh;
 }
 .container {
@@ -95,6 +95,7 @@ color: #E0B612;
     margin-top: 20px;
     border-radius: 15px;
     padding: 5px 20px;
+    display: none;
 }
 .notify-section{
     width: 35%;
